@@ -1,1 +1,1 @@
-"command used:git clone -b <branch-name> --single-branch <remote url>" >
+command used:git clone -b <branchname> --single-branch <remote-repo-url>
